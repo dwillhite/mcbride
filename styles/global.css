@@ -1,4 +1,6 @@
-
+.module {
+  border: 2px solid gray;
+}
 .a {
   background: blue;
 }
